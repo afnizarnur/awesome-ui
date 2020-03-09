@@ -1,0 +1,19 @@
+{
+  "name": "awesome-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afnizarnur/awesome-ui.git"
+  },
+  "author": "Afnizar Nur Ghifari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afnizarnur/awesome-ui/issues"
+  },
+  "homepage": "https://github.com/afnizarnur/awesome-ui#readme"
+}
